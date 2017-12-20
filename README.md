@@ -1,6 +1,6 @@
 ## Liquid Loader
 
-Literally just a copy/paste of https://codepen.io/Penno/pen/mVPqdb 😅😅😅
+Literally just a copy/paste of [this](https://codepen.io/Penno/pen/mVPqdb) made with WebView 😅😅😅
 
 
 
